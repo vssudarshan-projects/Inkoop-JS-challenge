@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+}
+
+.game-wrapper{
+  margin: 2rem 0 0 0;
+  text-align: center;
+  display: inline-block;
+}
+
+.start-msg-wrapper{
+  margin: 2rem 0 0 0;
+
+}
+
+.column{
+text-align: left;
+margin: 0 1rem 0 1rem;
+}
